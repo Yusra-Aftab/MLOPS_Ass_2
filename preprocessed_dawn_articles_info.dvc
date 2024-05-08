@@ -1,0 +1,5 @@
+outs:
+- md5: 028935716ada68b5443e4b406c3d8d6e
+  size: 124
+  hash: md5
+  path: preprocessed_dawn_articles_info

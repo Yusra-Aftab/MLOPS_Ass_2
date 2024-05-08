@@ -1,0 +1,5 @@
+outs:
+- md5: 933aee8323627b2e4ab95d17d75d8485
+  size: 276
+  hash: md5
+  path: preprocessed_bbc_articles_info
